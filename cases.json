@@ -1,0 +1,20 @@
+[
+  {
+    "id":"1001",
+    "type":"Type 1 example",
+    "name": "Not using State Happier",
+    "description": "Practicing meditation and mindfulness will make you at least 10 percent happier."
+  },
+  {
+    "id":"1002",
+    "type":"Type 2 example",
+    "name": "The 10X Rule",
+    "description": "The biggest mistake most people make in life is not setting goals high enough."
+  },
+  {
+    "id":"1003",
+    "type":"Type 3 example",
+    "name": "A Short Guide to a Happy Life",
+    "description": "The only thing you have that nobody else has is control of your life."
+  }
+]
